@@ -1,6 +1,6 @@
 # six-servo-tow-arm-5movements
 
-This task هس for the Arm section of the Recepion robot
+This task is for the Arm section of the Recepion robot
 
 using three servo in each arm the total is 6 servo motor, i will set 5 defrint movement using one potintiometer 
 
