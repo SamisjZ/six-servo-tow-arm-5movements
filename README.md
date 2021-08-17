@@ -11,4 +11,4 @@ for the code section i use the analog inpot Values from the potintiometer (1024)
 
 see the Code and More in how its work in the file section under the name "six-servo-tow-arm-5movements.ino"
 
-and for the semulation you can vist my tinkercad page "https://www.tinkercad.com/things/d2WFY1ojDsj-six-servo-5movements"
+and for the simulation you can vist my tinkercad page "https://www.tinkercad.com/things/d2WFY1ojDsj-six-servo-5movements"
